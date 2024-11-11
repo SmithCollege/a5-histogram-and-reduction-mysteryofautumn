@@ -1,0 +1,11 @@
+1. What went well with this assignment?
+The histogram part went very smoothly, and the result was received as expected
+
+2. What was difficult?
+Figuring out how the function works while the block_size is not a multiple of 2
+
+3. How would you approach it differently?
+I would ignore the fact that the function doesn't work while block_size = 10 and stop banging my head on the wall for this problem.
+
+4. Anything else you want me to know?
+/
